@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Amruthahalli",
+    "region": "Bangalore North",
+    "rate": "₹7,050/ sq.ft",
+    "rentalYield": "NA",
+    "propertyID": "3f6f460b-2cfb-4122-a26d-ef03b062ecf5"
+  },
+  {
+    "name": "Hosa Road",
+    "region": "Bangalore South",
+    "rate": "₹7,750/ sq.ft",
+    "rentalYield": "6%",
+    "propertyID": "6c268e4a-3a5b-4f75-846d-6b3d6fc2f961"
+  },
+  {
+    "name": "Kadubeesanahalli",
+    "region": "Bangalore East",
+    "rate": "₹10,800/ sq.ft",
+    "rentalYield": "3%",
+    "propertyID": "2c51672a-536a-4786-a4d3-a990065fb83a"
+  },
+  {
+    "name": "Carmelaram",
+    "region": "Bangalore East",
+    "rate": "₹11,650/ sq.ft",
+    "rentalYield": "NA",
+    "propertyID": "cf9c47f0-5493-4e21-ba05-c826ef374403"
+  },
+  {
+    "name": "Thanisandra",
+    "region": "Bangalore North",
+    "rate": "₹9,550/ sq.ft",
+    "rentalYield": "4%",
+    "propertyID": "47402095-b992-4d01-9c17-56408bd7b5cb"
+  },
+  {
+    "name": "Rajajinagar",
+    "region": "Bangalore West",
+    "rate": "₹15,550/ sq.ft",
+    "rentalYield": "3%",
+    "propertyID": "8373db54-4efd-4a72-b5af-3715209b8a86"
+  },
+  {
+    "name": "Chokkanahalli",
+    "region": "",
+    "rate": "₹8,050/ sq.ft",
+    "rentalYield": "NA",
+    "propertyID": "122bd278-c68d-4b85-940d-d4f05ca7f93c"
+  },
+  {
+    "name": "Thubarahalli",
+    "region": "Bangalore East",
+    "rate": "₹8,000/ sq.ft",
+    "rentalYield": "NA",
+    "propertyID": "65208f18-2c78-4a90-ac72-a844737343df"
+  },
+  {
+    "name": "Rayasandra",
+    "region": "Bangalore South",
+    "rate": "₹6,900/ sq.ft",
+    "rentalYield": "NA",
+    "propertyID": "f6fdd058-d848-41ad-be11-d60ca4daf20b"
+  },
+  {
+    "name": "Dollars Colony",
+    "region": "Bangalore North",
+    "rate": "₹17,500/ sq.ft",
+    "rentalYield": "NA",
+    "propertyID": "2b99ad8f-9dd2-49d9-bd8a-b0c337b2fc67"
+  }
+]
