@@ -1,0 +1,22 @@
+{
+  "name": "s_zoominfo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1664.0",
+    "dotenv": "^16.4.5",
+    "proxy-chain": "^2.5.1",
+    "puppeteer": "^22.14.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-adblocker": "^2.13.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "user-agents": "^1.1.281",
+    "uuid": "^10.0.0"
+  },
+  "description": ""
+}
